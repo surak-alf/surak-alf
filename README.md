@@ -1,6 +1,24 @@
 ## Hi there 👋
+# 👋 I'm Surafel Kebede
 
-I'm Surafel Kebede, with a data science background from Addis Ababa University and AI engineering expertise from Kifiya/10 Academy.
+## 🎓 Education
+- **Trained in Data Science**  
+  🎓 Addis Ababa University
+
+## 📚 Specialized Training
+- **AI Engineering Training**  
+  🤖 Kifiya / 10 Academy
+
+## 💼 Expertise
+- Leveraging data and artificial intelligence to develop innovative solutions. 🌟
+- Driving impactful insights through data analysis and AI applications. 📊
+
+## 🛠️ Skills
+- Python 🐍
+- Machine Learning 📈
+- Data Visualization 📊
+- Deep Learning 🧠
+
 - 🔭 I’m currently working on portfolio management optimization involving Tesla (TSLA), Vanguard Total Bond Market ETF (BND), and SPDR S&P 500 ETF (SPY), focusing on risk assessment via Value at Risk (VaR) and performance evaluation using the Sharpe Ratio
 - 🌱 I’m currently learning projects that require time series analysis and risk management experience.
 - 👯 I’m looking to collaborate on projects that utilize data science and AI to solve challenges
