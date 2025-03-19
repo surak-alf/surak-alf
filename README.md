@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Surafel Kebede, with a data science background from Addis Ababa University and AI engineering expertise from Kifiya/10 Academy.
+
 <!--
 **surak-alf/surak-alf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
